@@ -1,0 +1,8 @@
+{
+	"name": "FacebookLogin",
+	"description": "Login via Facebook (install facebook/graph-sdk via composer)",
+	"version": "0.0.1",
+	"dependencies": {
+		"Core": ">=2.9.0"
+	}
+}
