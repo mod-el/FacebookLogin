@@ -29,6 +29,7 @@ $config = [
 	{
 		if ($this->model->moduleExists('Composer'))
 			$this->model->_Composer->addToJson('facebook/graph-sdk');
+		return true;
 	}
 
 	/**
